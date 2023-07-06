@@ -1,0 +1,24 @@
+h3{
+    color: red;
+    text-decoration: underline green;
+}
+p{
+    color: green;
+}
+.div1{
+    text-align: center;
+}
+.div2{
+    text-align: center;
+}
+.form{
+    background-color: aquamarine;
+    text-decoration: underline rgb(0, 0, 0);
+    width: 450px;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    margin-left: 500px;
+    margin-top: 30px;
+    padding: 10px;
+    border: 2px solid rgb(28, 46, 24);
+}
